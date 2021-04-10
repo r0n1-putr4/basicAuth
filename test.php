@@ -1,5 +1,5 @@
 <?php
-
+$tx="12";
 $login =base64_encode('admin').':'.base64_encode('admin');
 $url = 'http://localhost/basicAuth/';
 
